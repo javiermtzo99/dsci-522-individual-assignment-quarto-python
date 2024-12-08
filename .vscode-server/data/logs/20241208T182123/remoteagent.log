@@ -1,0 +1,20 @@
+2024-12-08 18:21:24.640 [info] 
+
+
+
+
+2024-12-08 18:21:24.769 [info] Extension host agent started.
+2024-12-08 18:21:25.396 [info] [127.0.0.1][f662a49a][ManagementConnection] New connection established.
+2024-12-08 18:21:25.424 [debug] No uninstalled extensions found.
+2024-12-08 18:21:25.431 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jovyan/.vscode-server/extensions
+2024-12-08 18:21:25.539 [info] Log level changed to info
+2024-12-08 18:21:26.447 [info] [127.0.0.1][bfd8b803][ExtensionHostConnection] New connection established.
+2024-12-08 18:21:26.566 [info] [127.0.0.1][bfd8b803][ExtensionHostConnection] <6019> Launched Extension Host Process.
+2024-12-08 18:21:27.679 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jovyan/.vscode-server/extensions
+2024-12-08 18:21:52.969 [info] [127.0.0.1][f662a49a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-08 18:21:53.532 [info] [127.0.0.1][bfd8b803][ExtensionHostConnection] <6019> Extension Host Process exited with code: 0, signal: null.
+2024-12-08 18:21:58.693 [info] [127.0.0.1][441cb3b1][ManagementConnection] New connection established.
+2024-12-08 18:21:59.731 [info] [127.0.0.1][514058eb][ExtensionHostConnection] New connection established.
+2024-12-08 18:21:59.794 [info] [127.0.0.1][514058eb][ExtensionHostConnection] <7579> Launched Extension Host Process.
+2024-12-08 18:28:21.578 [info] [127.0.0.1][441cb3b1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-08 18:28:23.308 [info] [127.0.0.1][514058eb][ExtensionHostConnection] <7579> Extension Host Process exited with code: 0, signal: null.
